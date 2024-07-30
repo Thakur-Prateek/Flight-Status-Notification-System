@@ -37,10 +37,25 @@ The system is designed to provide real-time updates on flight status and manage 
 ## 📸 Screenshots
 
 ![Login](resources/login.png)
+-> Shows us how login window looks
+
+
 ![Notification Manager](resources/frontendDetails.png)
+-> Shows us once user login, their page to see flight deatils and customise notification preference, some data point are not recievd as API used didn't provide that.
+
+
 ![WhatsApp Notification recieved](resources/whatsappNotification.jpg)
+-> Shows us notification on user phone on WhatsApp, Twillo used.
+
+
 ![SMS](resources/messagesNotification.jpg)
+-> Shows us notification on user phone on SMS, Twillo used.
+
+
 ![Mail](resources/mailNotification.png)
+-> Shows us notification on user on mail, SendGrid used.
+
+->Next few are log from backend(just for ref):
 ![backend logs-1](resources/backend.png)
 ![backend log-2](resources/consumer.png)
 ![backend log -3](resources/frontendCompiled.png)
