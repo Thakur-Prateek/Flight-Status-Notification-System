@@ -12,7 +12,7 @@ Welcome to the Flight Status Notification System project! This system provides r
 - [How It Works](#how-it-works)
 - [Screenshots](#screenshots)
 
-## 📄 Project Overview
+## Project Overview 📄
 
 The Flight Status Notification System consists of a backend and a frontend. The backend handles user authentication, flight details, and notification delivery. The frontend provides a user interface for managing flight notifications.
 
@@ -23,7 +23,7 @@ The Flight Status Notification System consists of a backend and a frontend. The 
 
 ## 📊 Presentation Slides
 
-Check out our [presentation slides](<presentation-slides-url>) for a detailed overview of the project.
+Check out our [presentation slides](resources/Flight-Status-Notification.pdf) for a detailed overview of the project.
 
 ## 🏆 Achievements
 
@@ -46,7 +46,12 @@ The system is designed to provide real-time updates on flight status and manage 
 
 ## 📸 Screenshots
 
-![Login](<path-to-login-screenshot>)
-![Flight Details](<path-to-flight-details-screenshot>)
-![Notification Settings](<path-to-notification-settings-screenshot>)
-
+![Login](resources/login.png)
+![Notification Manager](resources/frontendDetails.png)
+![WhatsApp Notification recieved](resources/whatsappNotification.jpg)
+![SMS](resources/messagesNotification.jpg)
+![Mail](resources/mailNotification.png)
+![backend logs-1](resources/backend.png)
+![backend log-2](resources/consumer.png)
+![backend log -3](resources/frontendCompiled.png)
+![backend log -4](resources/scheduler.png)
