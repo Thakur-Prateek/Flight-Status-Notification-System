@@ -2,16 +2,6 @@
 
 Welcome to the Flight Status Notification System project! This system provides real-time flight status updates via SMS, Email, and WhatsApp.
 
-## 📋 Table of Contents
-
-- [Project Overview](#project-overview)
-- [Repositories](#repositories)
-- [Presentation Slides](#presentation-slides)
-- [Achievements](#achievements)
-- [Setup Instructions](#setup-instructions)
-- [How It Works](#how-it-works)
-- [Screenshots](#screenshots)
-
 ## Project Overview 📄
 
 The Flight Status Notification System consists of a backend and a frontend. The backend handles user authentication, flight details, and notification delivery. The frontend provides a user interface for managing flight notifications.
